@@ -1,0 +1,20 @@
+[
+    {
+        "apellido": "celi",
+        "cedula": "1105514515",
+        "fechaPublicacion": "08/18/2004",
+        "nombre": "maycol"
+    },
+    {
+        "apellido": "perez",
+        "cedula": "1803005071",
+        "fechaPublicacion": "12/09/2003",
+        "nombre": "juan"
+    },
+    {
+        "apellido": "celi",
+        "cedula": "1103639199",
+        "fechaPublicacion": "02/29/2024",
+        "nombre": "jorge"
+    }
+]

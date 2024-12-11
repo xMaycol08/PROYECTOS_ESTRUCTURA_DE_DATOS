@@ -1,0 +1,20 @@
+[
+    {
+        "anioLanzamiento": "02/05/2022",
+        "autor": "jorge celi",
+        "calificacion": 4.0,
+        "genero": "nose",
+        "isbn": "0-1",
+        "precio": 6.0,
+        "titulo": "caperucita"
+    },
+    {
+        "anioLanzamiento": "02/02/2002",
+        "autor": "maycol celi",
+        "calificacion": 4.0,
+        "genero": "nose",
+        "isbn": "0-2",
+        "precio": 6.0,
+        "titulo": "programacion 3"
+    }
+]

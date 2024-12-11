@@ -1,0 +1,47 @@
+[
+    {
+        "anioLanzamiento": "02/29/2024",
+        "autor": "maycol celi",
+        "calificacion": 5.0,
+        "genero": "novela",
+        "isbn": "18-08",
+        "precio": 4.0,
+        "titulo": "programacion 3"
+    },
+    {
+        "anioLanzamiento": "02/02/1975",
+        "autor": "maycol celi",
+        "calificacion": 2.0,
+        "genero": "nose",
+        "isbn": "15",
+        "precio": 5.0,
+        "titulo": "masd"
+    },
+    {
+        "anioLanzamiento": "02/06/1978",
+        "autor": "maycol celi",
+        "calificacion": 3.0,
+        "genero": "asd",
+        "isbn": "14",
+        "precio": 4.0,
+        "titulo": "asd"
+    },
+    {
+        "anioLanzamiento": "01/01/1800",
+        "autor": "juan perez",
+        "calificacion": 10.0,
+        "genero": "computacion",
+        "isbn": "9876543210",
+        "precio": 10.100000381469727,
+        "titulo": "programacion 3"
+    },
+    {
+        "anioLanzamiento": "12/09/2002",
+        "autor": "maycol celi",
+        "calificacion": 1.0,
+        "genero": "dfdsfdsf",
+        "isbn": "123",
+        "precio": 14.0,
+        "titulo": "dfsdf"
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PROYECTO 1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PROYECTO 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Tools/vcpkg/packages/libharu_x64-windows/include" />
+				</Compiler>
+				<Linker>
+					<Add library="hpdf" />
+					<Add directory="C:/Tools/vcpkg/packages/libharu_x64-windows/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PROYECTO 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BackupManager.cpp" />
+		<Unit filename="BackupManager.h" />
+		<Unit filename="Cursor.cpp" />
+		<Unit filename="Cursor.h" />
+		<Unit filename="FileUtils.cpp" />
+		<Unit filename="FileUtils.h" />
+		<Unit filename="GenerarPDFAutores.cpp" />
+		<Unit filename="GenerarPDFAutores.h" />
+		<Unit filename="GenerarPDFLibros.cpp" />
+		<Unit filename="GenerarPDFLibros.h" />
+		<Unit filename="ListaAutores.cpp" />
+		<Unit filename="ListaAutores.h" />
+		<Unit filename="ListaLibros.cpp" />
+		<Unit filename="ListaLibros.h" />
+		<Unit filename="NodoAutores.cpp" />
+		<Unit filename="NodoAutores.h" />
+		<Unit filename="NodoLibros.cpp" />
+		<Unit filename="NodoLibros.h" />
+		<Unit filename="Validaciones.cpp" />
+		<Unit filename="Validaciones.h" />
+		<Unit filename="VentanaAyuda.cpp" />
+		<Unit filename="VentanaAyuda.h" />
+		<Unit filename="dirent.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

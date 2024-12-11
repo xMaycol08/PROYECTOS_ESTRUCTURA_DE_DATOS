@@ -1,0 +1,20 @@
+[
+    {
+        "anioLanzamiento": "08/18/2004",
+        "autor": "erika guayanay",
+        "calificacion": 4.0,
+        "genero": "asd",
+        "isbn": "16",
+        "precio": 6.0,
+        "titulo": "sad"
+    },
+    {
+        "anioLanzamiento": "08/18/2004",
+        "autor": "Kerly guayanay",
+        "calificacion": 9.0,
+        "genero": "ma",
+        "isbn": "18",
+        "precio": 6.0,
+        "titulo": "nose"
+    }
+]

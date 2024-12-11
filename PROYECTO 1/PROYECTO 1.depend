@@ -1,0 +1,421 @@
+# depslib dependency file v1.0
+1733898337 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\listaautores.cpp
+	"ListaAutores.h"
+	"Validaciones.h"
+	<iostream>
+	"json.hpp"
+	<chrono>
+	"BackupManager.h"
+
+1733720693 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\listaautores.h
+	"NodoAutores.h"
+	<string>
+	<fstream>
+	"json.hpp"
+
+1733720693 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\nodoautores.h
+	<string>
+
+1733512730 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\json.hpp
+	<algorithm>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<forward_list>
+	<iterator>
+	<map>
+	<optional>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<cstddef>
+	<exception>
+	<numeric>
+	<stdexcept>
+	<string>
+	<vector>
+	<array>
+	<cstddef>
+	<cstdint>
+	<string>
+	<utility>
+	<type_traits>
+	<stdint.h>
+	<stdint.h>
+	<version>
+	<cstdlib>
+	<cassert>
+	<compare>
+	<cstddef>
+	<array>
+	<cstddef>
+	<type_traits>
+	<utility>
+	<limits>
+	<type_traits>
+	<utility>
+	<tuple>
+	<string>
+	<iterator>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<cstring>
+	<string>
+	<utility>
+	<experimental/filesystem>
+	<filesystem>
+	<algorithm>
+	<iterator>
+	<optional>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<utility>
+	<ranges>
+	<cstdint>
+	<tuple>
+	<utility>
+	<cstdint>
+	<cstddef>
+	<functional>
+	<algorithm>
+	<array>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<bit>
+	<array>
+	<cstddef>
+	<cstring>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cstdio>
+	<istream>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<cctype>
+	<cerrno>
+	<cstdlib>
+	<iosfwd>
+	<limits>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<map>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<algorithm>
+	<cstddef>
+	<iterator>
+	<memory>
+	<string>
+	<vector>
+	<ios>
+	<ostream>
+	<algorithm>
+	<array>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<iomanip>
+	<type_traits>
+	<utility>
+	<array>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+	<functional>
+	<initializer_list>
+	<iterator>
+	<memory>
+	<stdexcept>
+	<type_traits>
+	<utility>
+	<vector>
+	<any>
+	<string_view>
+
+1733894900 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\validaciones.h
+	<string>
+
+1733935272 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\listalibros.cpp
+	"ListaLibros.h"
+	"BackupManager.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<chrono>
+	"json.hpp"
+	<iomanip>
+
+1733935839 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\listalibros.h
+	"NodoLibros.h"
+	"ListaAutores.h"
+	<string>
+	<regex>
+	<fstream>
+	"json.hpp"
+
+1733718497 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\nodolibros.h
+	<string>
+
+1733720693 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\nodoautores.cpp
+	"NodoAutores.h"
+
+1733935443 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\nodolibros.cpp
+	"NodoLibros.h"
+	<iostream>
+
+1733894900 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\validaciones.cpp
+	"Validaciones.h"
+	<regex>
+	<iostream>
+	<limits>
+	<ctime>
+	<string>
+
+1733935839 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\main.cpp
+	"ListaAutores.h"
+	"ListaLibros.h"
+	"Validaciones.h"
+	"GenerarPDFLibros.h"
+	"GenerarPDFAutores.h"
+	"VentanaAyuda.h"
+	"Cursor.h"
+	<iostream>
+	<cstdlib>
+	<limits>
+	<hpdf.h>
+	<conio.h>
+	"BackupManager.h"
+	"FileUtils.h"
+	<ctime>
+	<string>
+
+1733722783 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\generarpdflibros.cpp
+	"GenerarPDFLibros.h"
+	<iostream>
+	<hpdf.h>
+	<iomanip>
+	<sstream>
+	<cstdlib>
+
+1733542276 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\generarpdflibros.h
+	"ListaLibros.h"
+	<string>
+	<iostream>
+	<fstream>
+	<hpdf.h>
+
+1733065743 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf.h
+	"hpdf_config.h"
+	"hpdf_version.h"
+	"hpdf_consts.h"
+	"hpdf_types.h"
+	"hpdf_consts.h"
+	"hpdf_doc.h"
+	"hpdf_error.h"
+	"hpdf_pdfa.h"
+
+1733065738 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_config.h
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_version.h
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_consts.h
+
+1733065743 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_types.h
+	<stdlib.h>
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_doc.h
+	"hpdf_catalog.h"
+	"hpdf_image.h"
+	"hpdf_pages.h"
+	"hpdf_outline.h"
+	"hpdf_ext_gstate.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_catalog.h
+	"hpdf_objects.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_objects.h
+	"hpdf_encoder.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_encoder.h
+	"hpdf_consts.h"
+	"hpdf_streams.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_streams.h
+	"hpdf_list.h"
+	"hpdf_encrypt.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_list.h
+	"hpdf_error.h"
+	"hpdf_mmgr.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_error.h
+	"hpdf_types.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_mmgr.h
+	"hpdf_types.h"
+	"hpdf_error.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_encrypt.h
+	"hpdf_mmgr.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_image.h
+	"hpdf_objects.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_pages.h
+	"hpdf_gstate.h"
+	"hpdf_ext_gstate.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_gstate.h
+	"hpdf_font.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_font.h
+	"hpdf_fontdef.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_fontdef.h
+	"hpdf_objects.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_ext_gstate.h
+	"hpdf_objects.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_outline.h
+	"hpdf_objects.h"
+
+1695066421 c:\tools\vcpkg\packages\libharu_x64-windows\include\hpdf_pdfa.h
+	"hpdf_doc.h"
+	"hpdf_objects.h"
+
+1733722783 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\generarpdfautores.cpp
+	"GenerarPDFAutores.h"
+	<iostream>
+	<hpdf.h>
+	<cstdlib>
+
+1733546197 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\generarpdfautores.h
+	"ListaAutores.h"
+	<string>
+
+1733718497 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\backupmanager.cpp
+	"BackupManager.h"
+	<iostream>
+	<vector>
+	<dirent.h>
+
+1733718497 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\backupmanager.h
+	<string>
+	<vector>
+
+1733723118 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\ventanaayuda.cpp
+	"VentanaAyuda.h"
+	<sstream>
+	<iostream>
+	<windows.h>
+	<cstring>
+	<vector>
+	<sstream>
+
+1733718497 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\ventanaayuda.h
+	<windows.h>
+
+1733718497 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\cursor.cpp
+	"Cursor.h"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+
+1733718497 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\cursor.h
+	<windows.h>
+	<string>
+
+1733718497 source:c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\fileutils.cpp
+	"FileUtils.h"
+	<iostream>
+	<dirent.h>
+	<vector>
+	<string>
+
+1733718497 c:\users\admin\desktop\espe\pregraso s2 2024\estructura de datos\proyecto 1\fileutils.h
+	<string>
+	<vector>
+
